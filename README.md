@@ -30,6 +30,10 @@ https://www.youtube.com/watch?v=n8TpxYML5AY
 
 Code compile into .exe file by pkg module to protect the source code
 
+Can't upload file more than 25MB. Download the bot from zippyshare link:
+
+https://www40.zippyshare.com/v/GPqFR1KA/file.html
+
 
 If you need the source code, I sell it for 1 BNB.
 
