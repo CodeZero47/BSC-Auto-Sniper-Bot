@@ -4,6 +4,8 @@ No need to manually search for fair/stealth launch again...This is Auto Sniper B
 Update:
 More option has been added as per your requests
 
+Tips: Run bot between 14pm-22pm utc. Most good token launch during this time. Don't run during Asian time, most of scam tokens launch in Asian time.
+
 ![AutoSniperBot](https://user-images.githubusercontent.com/113595816/190378766-1106b1bd-ac36-456d-aa92-f561a06a6d10.PNG)
 
 Need to edit .env file before running bot:
